@@ -17,7 +17,7 @@
 > * __To Deploy the contract to a testnet__ - ```yarn hardhat deploy --network <network name> ```
 > * __To Run Test on hardhat__  - ```yarn hardhat test ```
 > * __To Run Test on a particular network__ ```yarn hardhat test --network <network name> ```
-> * __To Run a paricular Test__ - ```yarn hardhat test --grep <name of the test in quote> ```
+> * __To Run a particular Test__ - ```yarn hardhat test --grep <name of the test in quote> ```
 >  * __To Run a Specific Test on a Particular Network__ - ```yarn hardhat test --grep <name of the test in quote>  --network <network name> ```
 
 ```bash
