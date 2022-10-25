@@ -13,8 +13,8 @@
 
 > * __To Compile the Contract__   - ```yarn hardhat compile```
 > * __To Clear the Compile__ Contract - ```yarn hardhat clean```
-> * __To Deploy the Contract on hardhat__ - ```yarn hardhat deploy```
-> * __To Deploy the contract to a testnet__ - ```yarn hardhat deploy --network <network name> ```
+> * __To Deploy the Contract on hardhat__ - ```yarn hardhat run scripts/<scripts file name>```
+> * __To Deploy the contract to a testnet__ - ```yarn hardhat run scripts/<scripts file name> --network <network name> ```
 > * __To Run Test on hardhat__  - ```yarn hardhat test ```
 > * __To Run Test on a particular network__ ```yarn hardhat test --network <network name> ```
 > * __To Run a particular Test__ - ```yarn hardhat test --grep <name of the test in quote> ```
